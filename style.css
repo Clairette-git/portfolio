@@ -153,3 +153,44 @@ button:active{
     font-family:calibri;
     background-color:#262525;
 }
+.hobbies{
+    height:600px;
+    background-color: #FFFFFF;
+    padding: 2% 10% 0px 10%;
+}
+.hobbies-text h3{
+    font-family: calibri;
+    font-weight: bold;
+    color: #3e3d3d;
+    font-size: 30px;
+    line-height: 0px;
+}
+.hobbies-text li:nth-child(1){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;
+    font-size:18px;
+    line-height:10px;
+   
+}
+.hobbies-text li:nth-child(2){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;;
+    font-size:18px;
+    line-height:30px;
+}
+.hobbies-text li:nth-child(3){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;
+    font-size:18px;
+    line-height:10px;
+}
+.hobbies-text li:nth-child(4){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;
+    font-size:18px;
+    line-height:30px;
+}
