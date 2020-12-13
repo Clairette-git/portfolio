@@ -250,3 +250,44 @@ button:active{
     line-height: 5px;
     font-weight: bold;
 }
+
+.skills-text h3{
+    font-family: calibri;
+    font-weight: bold;
+    color: #3e3d3d;
+    font-size: 30px;
+    line-height: 0px;
+}
+.skills-text li:nth-child(1){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;
+    font-size:18px;
+    line-height:10px;
+   
+}
+.skills-text li:nth-child(2){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;;
+    font-size:18px;
+    line-height:30px;
+}
+.skills-text li:nth-child(3){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;
+    font-size:18px;
+    line-height:10px;
+}
+.skills-text li:nth-child(4){
+    font-family: calibri;
+    font-weight:bold;
+    color:#3e3e3d;
+    font-size:18px;
+    line-height:30px;
+}
+.skills-text{
+    width:500px;
+    margin: 50px 0px;
+}
