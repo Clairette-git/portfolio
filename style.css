@@ -131,9 +131,10 @@ button:active{
     font-size:23px;
     line-height:0px;
 }
-.about-text p:nth-child(2){
+.about-text p:nth-child(2),
+.about-text p:nth-child(5){
     color: #3e3d3e;
-    font-size: 13px;
+    font-size: 17px;
     font-family: myriad pro;
     font-weight: bold;
     line-height: 5px;
@@ -144,15 +145,13 @@ button:active{
     font-family: calibri;
     font-size: 16px;
 }
-.about-text button{
-    width:120px;
-    height:40px;
-    color: #FFFFFF;
-    outline: none;
-    border: none;
-    font-family:calibri;
-    background-color:#262525;
+.about-text li,
+.about-text li{
+    color:#000000;
+    font-family: myriad pro;
+    font-size: 16px;
 }
+
 .hobbies{
     height:600px;
     background-color: #FFFFFF;
