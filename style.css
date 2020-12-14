@@ -212,16 +212,16 @@ button:active{
     justify-content: space-between;
 }
 .box-1{
-    background-image: url("images/hobbies-1.JPG");
+    background-image: url("images/hobbies-1.jpg");
 }
 .box-2{
     background-image: url("images/hobbies-2.png");
 }
 .box-3{
-    background-image: url("images/hobbies-3.JPG");
+    background-image: url("images/hobbies-3.jpg");
 }
 .box-4{
-    background-image: url("images/hobbies-4.JPG");
+    background-image: url("images/hobbies-4.jpg");
 }
 .box-1 span,
 .box-2 span,
